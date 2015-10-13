@@ -1,0 +1,3 @@
+[submodule "electricDreams"]
+	path = electricDreams
+	url = https://github.com/ckomarec/electricDreams.git
