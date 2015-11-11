@@ -8,3 +8,6 @@
 [submodule "jqueryFAQ"]
 	path = jqueryFAQ
 	url = https://github.com/ckomarec/jqueryFAQ.git
+[submodule "slider"]
+	path = slider
+	url = https://github.com/ckomarec/slider.git
