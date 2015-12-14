@@ -11,3 +11,9 @@
 [submodule "slider"]
 	path = slider
 	url = https://github.com/ckomarec/slider.git
+[submodule "timing"]
+	path = timing
+	url = https://github.com/ckomarec/timing.git
+[submodule "lightbox"]
+	path = lightbox
+	url = https://github.com/ckomarec/lightbox.git
